@@ -1,0 +1,16 @@
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\bin\Debug\net5.0\dsa.exe
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\bin\Debug\net5.0\dsa.deps.json
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\bin\Debug\net5.0\dsa.runtimeconfig.json
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\bin\Debug\net5.0\dsa.runtimeconfig.dev.json
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\bin\Debug\net5.0\dsa.dll
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\bin\Debug\net5.0\ref\dsa.dll
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\bin\Debug\net5.0\dsa.pdb
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\obj\Debug\net5.0\dsa.csprojAssemblyReference.cache
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\obj\Debug\net5.0\dsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\obj\Debug\net5.0\dsa.AssemblyInfoInputs.cache
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\obj\Debug\net5.0\dsa.AssemblyInfo.cs
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\obj\Debug\net5.0\dsa.csproj.CoreCompileInputs.cache
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\obj\Debug\net5.0\dsa.dll
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\obj\Debug\net5.0\ref\dsa.dll
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\obj\Debug\net5.0\dsa.pdb
+C:\Users\PETER AHUNANYA\source\repos\dsa\dsa\obj\Debug\net5.0\dsa.genruntimeconfig.cache
